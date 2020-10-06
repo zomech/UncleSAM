@@ -19,7 +19,7 @@ https://binaryforay.blogspot.com/2015/01/registry-hive-basics.html
 https://2017.zeronights.org/wp-content/uploads/materials/ZN17-Suhanov-Registry.pdf
 
 
-SAM structure and password cracking:
+SAM structure and password extraction:
 
 http://www.insecurity.be/blog/2018/01/21/retrieving-ntlm-hashes-and-what-changed-technical-writeup/
 
