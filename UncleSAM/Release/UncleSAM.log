@@ -1,0 +1,46 @@
+﻿  Disk.c
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\Disk.c(36,1): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\Disk.c(72,128): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\Disk.c(72,124): warning C4024: 'CreateFileW': different types for formal and actual parameter 6
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\Disk.c(73,45): warning C4244: 'function': conversion from 'unsigned __int64' to 'size_t', possible loss of data
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\Disk.c(61,1): warning C4047: 'initializing': 'HANDLE' differs in levels of indirection from 'int'
+  Main.c
+  Registry.c
+  SAM.c
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(48,53): warning C4133: 'function': incompatible types - from 'wchar_t [9]' to 'BYTE *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(85,54): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(85,50): warning C4024: 'GetVKValue': different types for formal and actual parameter 5
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(116,77): warning C4047: 'function': 'HCRYPTKEY' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(116,73): warning C4024: 'CryptImportKey': different types for formal and actual parameter 4
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(116,83): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(116,79): warning C4024: 'CryptImportKey': different types for formal and actual parameter 5
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(121,68): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(121,64): warning C4024: 'CryptSetKeyParam': different types for formal and actual parameter 4
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(125,70): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(125,66): warning C4024: 'CryptSetKeyParam': different types for formal and actual parameter 4
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(133,41): warning C4047: 'function': 'HCRYPTHASH' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(133,37): warning C4024: 'CryptDecrypt': different types for formal and actual parameter 2
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(133,53): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(133,49): warning C4024: 'CryptDecrypt': different types for formal and actual parameter 4
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(137,34): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(137,30): warning C4024: 'CryptReleaseContext': different types for formal and actual parameter 2
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(177,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(177,55): warning C4024: 'GetVKValue': different types for formal and actual parameter 5
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(224,77): warning C4047: 'function': 'HCRYPTKEY' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(224,73): warning C4024: 'CryptImportKey': different types for formal and actual parameter 4
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(224,83): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(224,79): warning C4024: 'CryptImportKey': different types for formal and actual parameter 5
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(229,68): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(229,64): warning C4024: 'CryptSetKeyParam': different types for formal and actual parameter 4
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(234,63): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(234,59): warning C4024: 'CryptSetKeyParam': different types for formal and actual parameter 4
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(239,41): warning C4047: 'function': 'HCRYPTHASH' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(239,37): warning C4024: 'CryptDecrypt': different types for formal and actual parameter 2
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(239,53): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\UncleSAM\UncleSAM\SAM.c(239,49): warning C4024: 'CryptDecrypt': different types for formal and actual parameter 4
+  Generating code
+  21 of 25 functions (84.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UncleSAM.vcxproj -> C:\Users\97254\source\repos\UncleSAM\Release\UncleSAM.exe
